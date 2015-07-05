@@ -6,6 +6,6 @@ This workflow calculates the [Golden ratio](https://en.wikipedia.org/wiki/Golden
 
 ---
 
-![preview](RESOURCES/ratio.gif)
+![preview](RESOURCES/preview.gif)
 
 
